@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Color-Dice/static/css/main.ff9ba0a8.css",
+    "main.js": "/Color-Dice/static/js/main.cb980bd6.js",
+    "index.html": "/Color-Dice/index.html",
+    "main.ff9ba0a8.css.map": "/Color-Dice/static/css/main.ff9ba0a8.css.map",
+    "main.cb980bd6.js.map": "/Color-Dice/static/js/main.cb980bd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9ba0a8.css",
+    "static/js/main.cb980bd6.js"
+  ]
+}
